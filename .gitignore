@@ -1,0 +1,4 @@
+*.pyc
+instance/
+*.db
+*.db-journal
